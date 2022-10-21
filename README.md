@@ -9,7 +9,7 @@ Help me make this project better.., not by paying me but adding pull requests he
 
 You can add suggestions in issues..
 
-Do download use git clone this project and then build it from source..
+Do download using mediafire link to this project and then build it from source..
 
 ## My Contribution
 
@@ -24,11 +24,11 @@ I will frequently work on this project as my **MAIN** project..
 
 ### MacOS -
 1) Get dotnet through brew (or other sources).
-2) Get Visual Studio Code and add C# code extension and then open VS Code in the source directory through you guessed it, GIT CLONE!
+2) Get Visual Studio Code and add C# code extension and then open VS Code in the source directory through you guessed it, mediafire link!
 3) Edit and add to pull request.
 
 ### Linux -
-1) Get monodevelop, set it up and open solution in the code (make sure you have git cloned the project and opened monodevelop from that folder's solution.
+1) Get monodevelop, set it up and open solution in the code (make sure you have mediafire linkd the project and opened monodevelop from that folder's solution.
 2) Edit, run and check and put on pull request..
 
 ### Please be sensible while putting pull request (make sure code makes sense)
